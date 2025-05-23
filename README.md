@@ -1,6 +1,6 @@
 # Image Processing Application
 
-A C++ application for processing and manipulating PGM (Portable Gray Map) images with various operations including brightness/contrast adjustment, gamma correction, convolution filters, and shape drawing capabilities.
+A C++ application for processing and manipulating PGM (Portable Gray Map) images with various operations including brightness/contrast adjustment, gamma correction, convolution filters, and shape drawing capabilities made for my OOP course.
 
 ## Features
 
@@ -92,14 +92,3 @@ The application provides an interactive menu with the following options:
 - `Rectangle.h/cpp`: Rectangle class for shape drawing
 - `CMakeLists.txt`: Build configuration
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Your chosen license]
-
-## Author
-
-[Your name/username]
