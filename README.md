@@ -19,38 +19,6 @@ A C++ application for processing and manipulating PGM (Portable Gray Map) images
   - Shape drawing
 - **Custom Output Directory**: Flexible output path configuration
 
-## Prerequisites
-
-- C++17 or later
-- CMake (version 3.10 or higher)
-- A C++ compiler with C++17 support
-
-## Building the Project
-
-1. Clone the repository:
-```bash
-git clone [your-repository-url]
-cd ImageProcessing
-```
-
-2. Create a build directory and navigate to it:
-```bash
-mkdir build
-cd build
-```
-
-3. Generate build files with CMake:
-```bash
-cmake ..
-```
-
-4. Build the project:
-```bash
-cmake --build .
-```
-
-## Usage
-
 After building, run the executable:
 ```bash
 ./ImageProcessing
